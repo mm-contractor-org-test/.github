@@ -1,0 +1,5 @@
+{
+    "name": "Hello World CI Workflow",
+    "description": "Echo Hello world",
+    "iconName": "example-icon"
+}
